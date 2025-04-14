@@ -134,7 +134,7 @@ sections:
           matter your industry.
 
         image:
-          url: /images/icon3.svg
+          url: /images/Problem solving icon.png
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
