@@ -100,10 +100,12 @@ sections:
               borderRadius: x-large
       - title: 20x
         subtitle: ThMake AI Work for You
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+
+          Discover how to apply AI in your everyday work—no jargon, just
+          real-world use cases. Learn how to save time, work smarter, and stay
+          ahead in a changing job market.
+
         image:
           url: /images/icon2.svg
           altText: Featured icon two
