@@ -1,0 +1,95 @@
+{
+    "model": "GenericSection",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "Contact US",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "Contact"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "title": {
+                    "$$type": "TitleBlock",
+                    "text": "We would love to hear from you",
+                    "color": "text-dark",
+                    "styles": null
+                },
+                "subtitle": "How can we help",
+                "text": "Let us know how we can help you or your company grow, we are happy to help\n",
+                "actions": [],
+                "media": {
+                    "$$type": "FormBlock",
+                    "fields": [
+                        {
+                            "$$type": "TextFormControl",
+                            "name": "name",
+                            "label": "Name",
+                            "hideLabel": true,
+                            "placeholder": "Your name",
+                            "isRequired": true,
+                            "width": "full"
+                        },
+                        {
+                            "$$type": "EmailFormControl",
+                            "name": "email",
+                            "label": "Email",
+                            "hideLabel": true,
+                            "placeholder": "Your email",
+                            "isRequired": true,
+                            "width": "full"
+                        },
+                        {
+                            "$$type": "TextareaFormControl",
+                            "name": "message",
+                            "label": "Message",
+                            "hideLabel": true,
+                            "placeholder": "Your message",
+                            "isRequired": null,
+                            "width": "full"
+                        }
+                    ],
+                    "submitButton": {
+                        "$$type": "SubmitButtonFormControl",
+                        "label": "Submit",
+                        "showIcon": null,
+                        "icon": "arrowRight",
+                        "iconPosition": "right",
+                        "style": "primary",
+                        "elementId": null
+                    },
+                    "elementId": "contact-form",
+                    "styles": {
+                        "self": {
+                            "padding": [
+                                "pt-6",
+                                "pb-6",
+                                "pl-6",
+                                "pr-6"
+                            ],
+                            "borderColor": "border-dark",
+                            "borderStyle": "solid",
+                            "borderWidth": 1,
+                            "borderRadius": "large"
+                        }
+                    }
+                },
+                "badge": {
+                    "$$type": "Badge",
+                    "label": "Contact Us",
+                    "color": "text-primary",
+                    "styles": null
+                },
+                "elementId": null,
+                "colors": "bg-light-fg-dark",
+                "backgroundImage": null,
+                "styles": null
+            },
+            "thumbnail": "images/generic-section-contact-us-4726.png"
+        }
+    ]
+}
