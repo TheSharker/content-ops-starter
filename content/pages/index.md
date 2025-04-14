@@ -43,7 +43,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: Your Path to Expertise Starts Here
+      label: Unlock Your Expertise
       color: text-primary
       type: Badge
     elementId: ''
