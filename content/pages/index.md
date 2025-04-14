@@ -7,7 +7,7 @@ sections:
       text: Unblock your team boost your time to production
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: 'Real-World Skills to Help You Work Smarter, Not Harder'
     text: >+
       Need to get to grips with Microsoft Power BI? Want to harness the power of
       AI in your organisation, but not sure where to start? Or perhaps you’re
