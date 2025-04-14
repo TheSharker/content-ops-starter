@@ -65,7 +65,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Build confidence. Stay relevant. Move forward.
     items:
       - type: FeaturedItem
         title: You first!
