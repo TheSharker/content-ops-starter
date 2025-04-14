@@ -16,13 +16,6 @@
             "url": "https://www.linkedin.com/company/netlify",
             "icon": "linkedin",
             "type": "Social"
-        },
-        {
-            "altText": "Email link",
-            "url": "/mailto:info@sprintshark.com",
-            "icon": "mail",
-            "type": "Social",
-            "elementId": "Email "
         }
     ],
     "legalLinks": [
