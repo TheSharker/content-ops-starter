@@ -70,10 +70,12 @@ sections:
       - type: FeaturedItem
         title: You first!
         subtitle: Learn Power BI with Confidence
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+
+          Gain practical skills to turn data into clear, professional insights.
+          Whether you're new to reporting or need to sharpen your analysis,
+          we’ll help you feel confident with the tools that matter.
+
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
