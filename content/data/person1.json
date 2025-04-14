@@ -1,9 +1,9 @@
 {
-    "name": "Rhonda Piper",
-    "role": "Job title",
+    "name": "Alan Flynn",
+    "role": "Founder",
     "image": {
-        "url": "/images/avatar1.svg",
-        "altText": "Rhonda Piper",
+        "url": "/images/Alan Flynn - UCC.jpg",
+        "altText": "Alan Flynn",
         "styles": {
             "self": {
                 "borderRadius": "medium",
@@ -32,5 +32,5 @@
         }
     },
     "type": "Person",
-    "bio": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.\n"
+    "bio": "IT professional with over 20 years of experience. A passion for data and practical implementation is evident in his work. Training and helping teams solve complex problems is a key focus, bringing both expertise and enthusiasm to every project. Alan's dedication and friendly approach make him a valuable asset in any technical environment.\n\n"
 }
