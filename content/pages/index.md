@@ -43,7 +43,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: Your Path to Expertise Starts Here
       color: text-primary
       type: Badge
     elementId: ''
