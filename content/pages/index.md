@@ -201,7 +201,7 @@ sections:
         iconPosition: right
         style: primary
         elementId: Submit Button
-        showIcon: false
+        showIcon: true
       elementId: contact-form
       styles:
         self:
