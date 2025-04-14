@@ -107,7 +107,7 @@ sections:
           ahead in a changing job market.
 
         image:
-          url: /images/icon2.svg
+          url: /images/AI icon.png
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
