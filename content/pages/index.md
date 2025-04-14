@@ -200,6 +200,7 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: primary
+        elementId: Submit Button
       elementId: contact-form
       styles:
         self:
