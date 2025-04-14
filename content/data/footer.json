@@ -19,9 +19,10 @@
         },
         {
             "altText": "Email link",
-            "url": "/",
+            "url": "/mailto:info@sprintshark.com",
             "icon": "mail",
-            "type": "Social"
+            "type": "Social",
+            "elementId": "Email "
         }
     ],
     "legalLinks": [
