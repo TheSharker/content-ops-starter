@@ -99,7 +99,7 @@ sections:
             self:
               borderRadius: x-large
       - title: 20x
-        subtitle: ThMake AI Work for You
+        subtitle: Make AI Work for You
         text: >+
 
           Discover how to apply AI in your everyday work—no jargon, just
