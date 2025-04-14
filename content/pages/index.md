@@ -69,7 +69,7 @@ sections:
     items:
       - type: FeaturedItem
         title: You first!
-        subtitle: Numbers Done
+        subtitle: Learn Power BI with Confidence
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
