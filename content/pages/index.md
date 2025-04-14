@@ -98,7 +98,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: 20x
+      - title: 10x
         subtitle: Make AI Work for You
         text: >+
 
